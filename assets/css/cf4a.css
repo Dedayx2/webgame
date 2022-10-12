@@ -1,0 +1,965 @@
+
+
+@keyframes cf4FadeInOut1 {
+    0% {
+        opacity: 0;
+    }
+
+    4.76% {
+        opacity: 0;
+    }
+
+    9.52% {
+        opacity: 1;
+    }
+
+    14.28% {
+        opacity: 1;
+    }
+
+    19.04% {
+        opacity: 1;
+    }
+
+    23.8% {
+        opacity: 0;
+    }
+
+    28.56% {
+        opacity: 0;
+    }
+
+    33.32% {
+        opacity: 0;
+    }
+
+    38.08% {
+        opacity: 0;
+    }
+
+    42.84% {
+        opacity: 0;
+    }
+
+    47.6% {
+        opacity: 0;
+    }
+
+    52.36% {
+        opacity: 0;
+    }
+
+    57.12% {
+        opacity: 0;
+    }
+
+    61.88% {
+        opacity: 0;
+    }
+
+    66.64% {
+        opacity: 0;
+    }
+
+    71.4% {
+        opacity: 0;
+    }
+
+    76.16% {
+        opacity: 0;
+    }
+
+    80.92% {
+        opacity: 0;
+    }
+
+    85.68% {
+        opacity: 0;
+    }
+
+    90.44% {
+        opacity: 0;
+    }
+
+    95.2% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@-webkit-keyframes cf4FadeInOut1 {
+    0% {
+        opacity: 0;
+    }
+
+    4.76% {
+        opacity: 0;
+    }
+
+    9.52% {
+        opacity: 1;
+    }
+
+    14.28% {
+        opacity: 1;
+    }
+
+    19.04% {
+        opacity: 1;
+    }
+
+    23.8% {
+        opacity: 0;
+    }
+
+    28.56% {
+        opacity: 0;
+    }
+
+    33.32% {
+        opacity: 0;
+    }
+
+    38.08% {
+        opacity: 0;
+    }
+
+    42.84% {
+        opacity: 0;
+    }
+
+    47.6% {
+        opacity: 0;
+    }
+
+    52.36% {
+        opacity: 0;
+    }
+
+    57.12% {
+        opacity: 0;
+    }
+
+    61.88% {
+        opacity: 0;
+    }
+
+    66.64% {
+        opacity: 0;
+    }
+
+    71.4% {
+        opacity: 0;
+    }
+
+    76.16% {
+        opacity: 0;
+    }
+
+    80.92% {
+        opacity: 0;
+    }
+
+    85.68% {
+        opacity: 0;
+    }
+
+    90.44% {
+        opacity: 0;
+    }
+
+    95.2% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes cf4FadeInOut2 {
+    0% {
+        opacity: 0;
+    }
+
+    4.76% {
+        opacity: 0;
+    }
+
+    9.52% {
+        opacity: 0;
+    }
+
+    14.28% {
+        opacity: 0;
+    }
+
+    19.04% {
+        opacity: 0;
+    }
+
+    23.8% {
+        opacity: 0;
+    }
+
+    28.56% {
+        opacity: 1;
+    }
+
+    33.32% {
+        opacity: 1;
+    }
+
+    38.08% {
+        opacity: 1;
+    }
+
+    42.84% {
+        opacity: 0;
+    }
+
+    47.6% {
+        opacity: 0;
+    }
+
+    52.36% {
+        opacity: 0;
+    }
+
+    57.12% {
+        opacity: 0;
+    }
+
+    61.88% {
+        opacity: 0;
+    }
+
+    66.64% {
+        opacity: 0;
+    }
+
+    71.4% {
+        opacity: 0;
+    }
+
+    76.16% {
+        opacity: 0;
+    }
+
+    80.92% {
+        opacity: 0;
+    }
+
+    85.68% {
+        opacity: 0;
+    }
+
+    90.44% {
+        opacity: 0;
+    }
+
+    95.2% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@-webkit-keyframes cf4FadeInOut2 {
+    0% {
+        opacity: 0;
+    }
+
+    4.76% {
+        opacity: 0;
+    }
+
+    9.52% {
+        opacity: 0;
+    }
+
+    14.28% {
+        opacity: 0;
+    }
+
+    19.04% {
+        opacity: 0;
+    }
+
+    23.8% {
+        opacity: 0;
+    }
+
+    28.56% {
+        opacity: 1;
+    }
+
+    33.32% {
+        opacity: 1;
+    }
+
+    38.08% {
+        opacity: 1;
+    }
+
+    42.84% {
+        opacity: 0;
+    }
+
+    47.6% {
+        opacity: 0;
+    }
+
+    52.36% {
+        opacity: 0;
+    }
+
+    57.12% {
+        opacity: 0;
+    }
+
+    61.88% {
+        opacity: 0;
+    }
+
+    66.64% {
+        opacity: 0;
+    }
+
+    71.4% {
+        opacity: 0;
+    }
+
+    76.16% {
+        opacity: 0;
+    }
+
+    80.92% {
+        opacity: 0;
+    }
+
+    85.68% {
+        opacity: 0;
+    }
+
+    90.44% {
+        opacity: 0;
+    }
+
+    95.2% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes cf4FadeInOut3 {
+    0% {
+        opacity: 0;
+    }
+
+    4.76% {
+        opacity: 0;
+    }
+
+    9.52% {
+        opacity: 0;
+    }
+
+    14.28% {
+        opacity: 0;
+    }
+
+    19.04% {
+        opacity: 0;
+    }
+
+    23.8% {
+        opacity: 0;
+    }
+
+    28.56% {
+        opacity: 0;
+    }
+
+    33.32% {
+        opacity: 0;
+    }
+
+    38.08% {
+        opacity: 0;
+    }
+
+    42.84% {
+        opacity: 0;
+    }
+
+    47.6% {
+        opacity: 1;
+    }
+
+    52.36% {
+        opacity: 1;
+    }
+
+    57.12% {
+        opacity: 1;
+    }
+
+    61.88% {
+        opacity: 0;
+    }
+
+    66.64% {
+        opacity: 0;
+    }
+
+    71.4% {
+        opacity: 0;
+    }
+
+    76.16% {
+        opacity: 0;
+    }
+
+    80.92% {
+        opacity: 0;
+    }
+
+    85.68% {
+        opacity: 0;
+    }
+
+    90.44% {
+        opacity: 0;
+    }
+
+    95.2% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@-webkit-keyframes cf4FadeInOut3 {
+    0% {
+        opacity: 0;
+    }
+
+    4.76% {
+        opacity: 0;
+    }
+
+    9.52% {
+        opacity: 0;
+    }
+
+    14.28% {
+        opacity: 0;
+    }
+
+    19.04% {
+        opacity: 0;
+    }
+
+    23.8% {
+        opacity: 0;
+    }
+
+    28.56% {
+        opacity: 0;
+    }
+
+    33.32% {
+        opacity: 0;
+    }
+
+    38.08% {
+        opacity: 0;
+    }
+
+    42.84% {
+        opacity: 0;
+    }
+
+    47.6% {
+        opacity: 1;
+    }
+
+    52.36% {
+        opacity: 1;
+    }
+
+    57.12% {
+        opacity: 1;
+    }
+
+    61.88% {
+        opacity: 0;
+    }
+
+    66.64% {
+        opacity: 0;
+    }
+
+    71.4% {
+        opacity: 0;
+    }
+
+    76.16% {
+        opacity: 0;
+    }
+
+    80.92% {
+        opacity: 0;
+    }
+
+    85.68% {
+        opacity: 0;
+    }
+
+    90.44% {
+        opacity: 0;
+    }
+
+    95.2% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes cf4FadeInOut4 {
+    0% {
+        opacity: 0;
+    }
+
+    4.76% {
+        opacity: 0;
+    }
+
+    9.52% {
+        opacity: 0;
+    }
+
+    14.28% {
+        opacity: 0;
+    }
+
+    19.04% {
+        opacity: 0;
+    }
+
+    23.8% {
+        opacity: 0;
+    }
+
+    28.56% {
+        opacity: 0;
+    }
+
+    33.32% {
+        opacity: 0;
+    }
+
+    38.08% {
+        opacity: 0;
+    }
+
+    42.84% {
+        opacity: 0;
+    }
+
+    47.6% {
+        opacity: 0;
+    }
+
+    52.36% {
+        opacity: 0;
+    }
+
+    57.12% {
+        opacity: 0;
+    }
+
+    61.88% {
+        opacity: 0;
+    }
+
+    66.64% {
+        opacity: 1;
+    }
+
+    71.4% {
+        opacity: 1;
+    }
+
+    76.16% {
+        opacity: 1;
+    }
+
+    80.92% {
+        opacity: 0;
+    }
+
+    85.68% {
+        opacity: 0;
+    }
+
+    90.44% {
+        opacity: 0;
+    }
+
+    95.2% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@-webkit-keyframes cf4FadeInOut4 {
+    0% {
+        opacity: 0;
+    }
+
+    4.76% {
+        opacity: 0;
+    }
+
+    9.52% {
+        opacity: 0;
+    }
+
+    14.28% {
+        opacity: 0;
+    }
+
+    19.04% {
+        opacity: 0;
+    }
+
+    23.8% {
+        opacity: 0;
+    }
+
+    28.56% {
+        opacity: 0;
+    }
+
+    33.32% {
+        opacity: 0;
+    }
+
+    38.08% {
+        opacity: 0;
+    }
+
+    42.84% {
+        opacity: 0;
+    }
+
+    47.6% {
+        opacity: 0;
+    }
+
+    52.36% {
+        opacity: 0;
+    }
+
+    57.12% {
+        opacity: 0;
+    }
+
+    61.88% {
+        opacity: 0;
+    }
+
+    66.64% {
+        opacity: 1;
+    }
+
+    71.4% {
+        opacity: 1;
+    }
+
+    76.16% {
+        opacity: 1;
+    }
+
+    80.92% {
+        opacity: 0;
+    }
+
+    85.68% {
+        opacity: 0;
+    }
+
+    90.44% {
+        opacity: 0;
+    }
+
+    95.2% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes cf4FadeInOut5 {
+    0% {
+        opacity: 0;
+    }
+
+    4.76% {
+        opacity: 0;
+    }
+
+    9.52% {
+        opacity: 0;
+    }
+
+    14.28% {
+        opacity: 0;
+    }
+
+    19.04% {
+        opacity: 0;
+    }
+
+    23.8% {
+        opacity: 0;
+    }
+
+    28.56% {
+        opacity: 0;
+    }
+
+    33.32% {
+        opacity: 0;
+    }
+
+    38.08% {
+        opacity: 0;
+    }
+
+    42.84% {
+        opacity: 0;
+    }
+
+    47.6% {
+        opacity: 0;
+    }
+
+    52.36% {
+        opacity: 0;
+    }
+
+    57.12% {
+        opacity: 0;
+    }
+
+    61.88% {
+        opacity: 0;
+    }
+
+    66.64% {
+        opacity: 0;
+    }
+
+    71.4% {
+        opacity: 0;
+    }
+
+    76.16% {
+        opacity: 0;
+    }
+
+    80.92% {
+        opacity: 0;
+    }
+
+    85.68% {
+        opacity: 1;
+    }
+
+    90.44% {
+        opacity: 1;
+    }
+
+    95.2% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@-webkit-keyframes cf4FadeInOut5 {
+    0% {
+        opacity: 0;
+    }
+
+    4.76% {
+        opacity: 0;
+    }
+
+    9.52% {
+        opacity: 0;
+    }
+
+    14.28% {
+        opacity: 0;
+    }
+
+    19.04% {
+        opacity: 0;
+    }
+
+    23.8% {
+        opacity: 0;
+    }
+
+    28.56% {
+        opacity: 0;
+    }
+
+    33.32% {
+        opacity: 0;
+    }
+
+    38.08% {
+        opacity: 0;
+    }
+
+    42.84% {
+        opacity: 0;
+    }
+
+    47.6% {
+        opacity: 0;
+    }
+
+    52.36% {
+        opacity: 0;
+    }
+
+    57.12% {
+        opacity: 0;
+    }
+
+    61.88% {
+        opacity: 0;
+    }
+
+    66.64% {
+        opacity: 0;
+    }
+
+    71.4% {
+        opacity: 0;
+    }
+
+    76.16% {
+        opacity: 0;
+    }
+
+    80.92% {
+        opacity: 0;
+    }
+
+    85.68% {
+        opacity: 1;
+    }
+
+    90.44% {
+        opacity: 1;
+    }
+
+    95.2% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+
+#cf4a {
+    position: relative;
+}
+
+#cf4a img.fade-image {
+    position: absolute;
+    max-width: calc(100% - 40px);
+}
+
+#cf4a img.fade-image1 {
+    animation-name: cf4FadeInOut1;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 20s;
+}
+
+#cf4a img.fade-image2 {
+    animation-name: cf4FadeInOut2;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 20s;
+}
+
+#cf4a img.fade-image3 {
+    animation-name: cf4FadeInOut3;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 20s;
+}
+
+#cf4a img.fade-image4 {
+    animation-name: cf4FadeInOut4;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 20s;
+}
+
+#cf4a img.fade-image5 {
+    animation-name: cf4FadeInOut5;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 20s;
+}
+
+@media (max-width: 767px) {
+    #cf4a img.fade-image {
+        max-width: calc(100% - 20px);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html> 
+<body>
+
+<h2>Select Game</h2>
+
+<form action="/productsearch" method="POST">
+  <label for="product">Product Name:</label><br>
+  <input type="text" id="productID" name="productName" value=""><br>
+  <input type="submit" value="Search">
+</form>
+
+{{if .}}
+  <ul>
+    <img src = {{.Img}}><br>
+    <li>Id: {{.ID}}</li>
+    <li>Name: {{.Name}}</li>
+    <li>Price: ${{.Price}}</li>
+    <li>Description: {{.Description}}</li>
+  </ul>
+{{end}}
+<br><br>
+<a href="/browse">Browse Products</a>
+</body>
+</html>
